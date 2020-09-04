@@ -1,89 +1,50 @@
-# Welcome to the Class Syllabus!
+# Course Syllabus
 
-***
+## Unit 1
 
-<details><summary>Daily Schedules</summary>
+**Front End Web Development Foundations - HTML, CSS, & JavaScript**
 
-<br>
+|  Week  |    Date     | Link                                                                                        | Topic                                           |
+| :----: | :---------: | :------------------------------------------------------------------------------------------ | :---------------------------------------------- |
+| Week 1 | 5/25 - 6/28 | [Unit 1 Detailed View](https://git.generalassemb.ly/sei-nyc-phoenix/class-info/wiki/Unit-1) | Intros, Command Line Interface, Git, JavaScript |
+| Week 2 | 6/01 - 6/05 |                                                                                             | CSS, DOM Manipulation, APIs                     |
+| Week 3 | 6/08 - 6/12 |                                                                                             | Project 1                                       |
 
-* [Unit 1](./Unit-1)
-* [Unit 2](./Unit-2)
-* [Unit 3](./Unit-3)
-* [Unit 4](./Unit-4)
+## Unit 2
 
-</details>
+**Front End JavaScript Frameworks and Advanced JS - React, React Router, Test Driven Development, Component Libraries**
 
-***
+|  Week  |    Date     | Link                                                                                        | Topic                                    |
+| :----: | :---------: | :------------------------------------------------------------------------------------------ | :--------------------------------------- |
+| Week 4 | 6/15 - 6/19 | [Unit 2 Detailed View](https://git.generalassemb.ly/sei-nyc-phoenix/class-info/wiki/Unit-2) | OOP, React, Component Libraries, Testing |
+| Week 5 | 6/22 - 6/26 |                                                                                             | Life Cycle, Hooks, Router                |
+| Week 6 | 6/29 - 7/02 |                                                                                             | Project 2                                |
 
-<details><summary>Homework</summary>
+## Unit 3
 
-<br>
+**Back End & Full Stack Web Development Foundations - Group Git Version Control, Express, MongoDB, SQL**
 
-* [Homework Submission Guidelines](https://git.generalassemb.ly/sei-nyc-constellations/class-info/blob/master/homework/guidelines.md)
-* [Homework Submission Template](https://git.generalassemb.ly/sei-nyc-constellations/class-info/blob/master/homework/submission-template.md)
+|  Week  |    Date     | Link                                                                                        | Topic                      |
+| :----: | :---------: | :------------------------------------------------------------------------------------------ | :------------------------- |
+| Week 7 | 7/06 - 7/10 | [Unit 3 Detailed View](https://git.generalassemb.ly/sei-nyc-phoenix/class-info/wiki/Unit-3) | Express, MongoDB, GroupGit |
+| Week 8 | 7/13 - 7/17 |                                                                                             | Project 3                  |
+| Week 9 | 7/20 - 7/24 |                                                                                             | SQL                        |
 
-</details>
+## Unit 4
 
-***
+**Additional Technologies & Independent Work - Ruby on Rails**
 
-<details><summary>Projects</summary>
+|  Week   |    Date     | Link                                                                                        | Topic                         |
+| :-----: | :---------: | :------------------------------------------------------------------------------------------ | :---------------------------- |
+| Week 10 | 7/27 - 8/01 | [Unit 4 Detailed View](https://git.generalassemb.ly/sei-nyc-phoenix/class-info/wiki/Unit-4) | Relational Data Modeling, SQL |
+| Week 11 | 8/03 - 8/07 |                                                                                             | Ruby, Rails                   |
+| Week 12 | 8/10 - 8/14 |                                                                                             | Project 4 Week                |
+| Week 13 | 8/17 - 8/18 |                                                                                             | Project 4 Week                |
 
-<br>
+## Outcomes
 
-* [Project 1 README Template](https://git.generalassemb.ly/sei-nyc-constellations/class-info/blob/master/projects/project1-README-template.md)
-* [Project 2 README Template](https://git.generalassemb.ly/sei-nyc-constellations/class-info/blob/master/projects/project2-README-template.md)
-* [Project 3 README Template](https://git.generalassemb.ly/sei-nyc-constellations/class-info/blob/master/projects/project3-README-template.md)
-* [Project 3 Group Expectations Template](https://git.generalassemb.ly/sei-nyc-constellations/class-info/blob/master/projects/project3-group-expectations-template.md)
-* [Issue Ticket Template](https://git.generalassemb.ly/sei-nyc-constellations/class-info/blob/master/projects/issue-ticket-template.md)
+**Personal Branding, Job Seeking, & Career Directions**
 
-</details>
-
-***
-
-<details><summary>Resources</summary>
-
-<br>
-
-<details><summary>Outcomes</summary>
-
-<br>
-
-- [Interviewing](https://git.generalassemb.ly/sei-nyc-constellations/class-info/tree/master/resources/outcomes/interviewing-tips.md)
-- [Pair Programming](https://git.generalassemb.ly/sei-nyc-constellations/class-info/tree/master/resources/outcomes/pair-programming.md)
-- [Whiteboarding](https://git.generalassemb.ly/sei-nyc-constellations/class-info/tree/master/resources/outcomes/whiteboarding.md)
-
-</details>
-
-<details><summary>Cheatsheets</summary>
-
-<br>
-
-* [Bourbon](https://git.generalassemb.ly/sei-nyc-constellations/class-info/blob/master/resources/cheatsheets/Bourbon.pdf)
-* [Command Line Interface](https://git.generalassemb.ly/sei-nyc-constellations/class-info/blob/master/resources/cheatsheets/CLI.pdf)
-* [Emmet](https://git.generalassemb.ly/sei-nyc-constellations/class-info/blob/master/resources/cheatsheets/Emmet.pdf)
-* [Express](https://git.generalassemb.ly/sei-nyc-constellations/class-info/tree/master/resources/cheatsheets/Express.md)
-* [Git](https://git.generalassemb.ly/sei-nyc-constellations/class-info/blob/master/resources/cheatsheets/Git.pdf)
-* [Group Git](https://git.generalassemb.ly/sei-nyc-constellations/class-info/tree/master/resources/cheatsheets/Group-Git.md)
-* [Heroku Deployment](https://git.generalassemb.ly/sei-nyc-constellations/class-info/tree/master/resources/cheatsheets/Heroku-Deployment.md)
-* [JSON Web Token](https://git.generalassemb.ly/sei-nyc-constellations/class-info/blob/master/resources/cheatsheets/JSON-Web-Token.pdf)
-* [Markdown](https://git.generalassemb.ly/sei-nyc-constellations/class-info/tree/master/resources/cheatsheets/Markdown.md)
-* [Oh My Zsh](https://git.generalassemb.ly/sei-nyc-constellations/class-info/tree/master/resources/cheatsheets/Oh-My-Zsh.md)
-* [Rails](https://git.generalassemb.ly/sei-nyc-constellations/class-info/tree/master/resources/cheatsheets/Rails-Checklist.md)
-* [SQL](https://git.generalassemb.ly/sei-nyc-constellations/class-info/tree/master/resources/cheatsheets/SQL.md)
-* [Version Control](https://git.generalassemb.ly/sei-nyc-constellations/class-info/blob/master/resources/cheatsheets/Version-Control-Flow.pdf)
-* [Website Optimization](https://git.generalassemb.ly/sei-nyc-constellations/class-info/blob/master/resources/cheatsheets/Website-Optimization.pdf)
-* [Xcode](https://git.generalassemb.ly/sei-nyc-constellations/class-info/blob/master/resources/cheatsheets/Xcode.pdf)
-
-</details>
-</details>
-
-***
-
-<details><summary>GA Policies</summary>
-
-<br>
-
-* [Attendance Policy](https://git.generalassemb.ly/sei-nyc-constellations/class-info/tree/master/policies/attendance.md)
-* [Plagiarism Policy](https://git.generalassemb.ly/sei-nyc-constellations/class-info/tree/master/policies/plagiarism.md)
-
-</details>
+|  Week  | Date  | Link                                                                                   | Topic             |
+| :----: | :---: | :------------------------------------------------------------------------------------- | :---------------- |
+| Week 1 | 2/26  | [Outcomes Wiki](https://git.generalassemb.ly/sei-nyc-phoenix/class-info/wiki/Outcomes) | Intro to Outcomes |
