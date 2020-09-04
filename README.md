@@ -1,4 +1,4 @@
-# Welcome to the Class Wiki!
+# Welcome to the Class Syllabus!
 
 ***
 
