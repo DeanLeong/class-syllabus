@@ -1,5 +1,19 @@
 # Unit 1 Detailed View
 
+## Key
+
+- ME: morning exercise
+- AM: morning lessons/labs
+- PM: afternoon lessons/labs
+- EE: evening exercises (homework)
+- ECS: evening computer science lessons (homework)
+- EA: evening algorithm exercises (homework)
+- PT: project time
+- OU: outcomes workshops
+- UX: user experience design collaboration
+
+<br>
+
 | **Unit 1** | **Type** | **Link**                               | **Zoom Recording** |
 | :--------- | :------- | :------------------------------------- | :----------------- |
 | Week 1     |          |                                        |                    |
