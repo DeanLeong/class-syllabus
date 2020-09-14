@@ -40,7 +40,7 @@
 |            | ECS      | myGA Module - Big O Notation           |                                                                                                                                         |
 |            | EE       | Loopy Evening Exercise                 |                                                                                                                                         |
 |            |          |                                        |                                                                                                                                         |
-| 9/11/2020  | ME       | Big O Notation Morning Exercise        |                                                                                                                                         |
+| 9/11/2020  | ME       | Big O Notation Morning Exercise        | [U1 W1 D5](https://generalassembly.zoom.us/rec/share/xldMyga-w75k5NY8Am04F5aXFO7T6BiBGsFBBdpvpIlQBOWPwYHJzEbHlAOmli3k.I29oyZTVQsTK0baL) |
 |            | AM       | Objects Lesson                         |                                                                                                                                         |
 |            | AM       | Objects Lab: Monkey's                  |                                                                                                                                         |
 |            | PM       | Objects Lab: Hammond Mines             |                                                                                                                                         |
