@@ -40,7 +40,7 @@
 |            | ECS      | myGA Module - Big O Notation           |                                                                                                                                         |
 |            | EE       | Loopy Evening Exercise                 |                                                                                                                                         |
 |            |          |                                        |                                                                                                                                         |
-| 9/11/2020  | ME       | Big O Notation Morning Exercise        |                                                                                                                                         |
+| 9/11/2020  | ME       | Big O Notation Morning Exercise        | [U1 W1 D4](https://generalassembly.zoom.us/rec/share/rA2X4Bs_0yig3Yz7jTcJOW-kGHox2ik0RFCp--6zgMSC3y8tH7i17ob7CIvVbpVV.HWzH3w6QAadhh4HY) |
 |            | AM       | Objects Lesson                         |                                                                                                                                         |
 |            | AM       | Objects Lab: Monkey's                  |                                                                                                                                         |
 |            | PM       | Objects Lab: Hammond Mines             |                                                                                                                                         |
@@ -48,7 +48,7 @@
 |            | EE       | High Card Weekend Exercise             |                                                                                                                                         |
 |            |          |                                        |                                                                                                                                         |
 | Week 2     |          |                                        |                                                                                                                                         |
-| 9/14/2020  | OU       | Intro to Outcomes Morning Workshop     |                                                                                                                                         |
+| 9/14/2020  | OU       | Intro to Outcomes Morning Workshop     | [U1 W2 D1](https://generalassembly.zoom.us/rec/share/lyu2HdcJntDVzeTpBTmZK8tfQ83iqVBQMaET2BP1Pd-2aoKevZNlIA6dKiTUTFU-.wJ1rQAo1D4nNpgHR) |
 |            | AM       | HTML/CSS Lesson                        |                                                                                                                                         |
 |            | AM       | CSS Diner Lesson                       |                                                                                                                                         |
 |            | AM       | CSS Diner Lab                          |                                                                                                                                         |
@@ -56,7 +56,7 @@
 |            | PM       | Box Model Lab                          |                                                                                                                                         |
 |            | EE       | Single Column Layout Evening Exercise  |                                                                                                                                         |
 |            |          |                                        |                                                                                                                                         |
-| 9/15/2020  | ME       | Finding Solutions Morning Exercise     |                                                                                                                                         |
+| 9/15/2020  | ME       | Finding Solutions Morning Exercise     | [U1 W2 D2](https://generalassembly.zoom.us/rec/share/lyu2HdcJntDVzeTpBTmZK8tfQ83iqVBQMaET2BP1Pd-2aoKevZNlIA6dKiTUTFU-.wJ1rQAo1D4nNpgHR) |
 |            | AM       | Flexbox Lesson                         |                                                                                                                                         |
 |            | AM       | Flexbox Froggy Lab                     |                                                                                                                                         |
 |            | PM       | Document Object Model                  |                                                                                                                                         |
@@ -64,13 +64,13 @@
 |            | EE       | Fast and the Furious Evening Exercise  |                                                                                                                                         |
 |            | EA       | JavaScript Algo- Does Include          |                                                                                                                                         |
 |            |          |                                        |                                                                                                                                         |
-| 9/16/2020  | AM       | JS Events Lesson                       |                                                                                                                                         |
+| 9/16/2020  | AM       | JS Events Lesson                       | [U1 W2 D3](https://generalassembly.zoom.us/rec/share/mwWBiVo57ICHUq78UeRluea3_pdLm2f4iUqTQpfvBI7R2FlnRPwaYFVh5aXEc1OR.uXoYYLvbBFp78MYW) |
 |            | AM       | Color Switcher Lab                     |                                                                                                                                         |
 |            | PM       | Higher Order Functions                 |                                                                                                                                         |
 |            | EE       | Duck Hunt Evening Exercise             |                                                                                                                                         |
 |            | EA       | JavaScript Algo- Palindrome            |                                                                                                                                         |
 |            |          |                                        |                                                                                                                                         |
-| 9/17/2020  | ME       | HTML Forms Morning Exercise            |                                                                                                                                         |
+| 9/17/2020  | ME       | HTML Forms Morning Exercise            | [U1 W2 D4](https://generalassembly.zoom.us/rec/share/OyQ2lXG4E3mdBE-nfDsYJNdbV3QMloplqHB2bjUoJxeEZosyAZoGxVDUfJldyipz.TYsbIi5Ols2SnRqx) |
 |            | AM       | HTTP/API Lesson                        |                                                                                                                                         |
 |            | AM       | API Lab                                |                                                                                                                                         |
 |            | PM       | Async/Await & Try/Catch Lesson         |                                                                                                                                         |
@@ -79,7 +79,7 @@
 |            | EA       | JavaScript Algo- Array Diffs           |                                                                                                                                         |
 |            | ECS      | myGA Module- Recursion                 |                                                                                                                                         |
 |            |          |                                        |                                                                                                                                         |
-| 9/18/2020  | ME       | Responsive Design Morning Exercise     |                                                                                                                                         |
+| 9/18/2020  | ME       | Responsive Design Morning Exercise     | [U1 W2 D5]() (Processing)                                                                                                               |
 |            | AM       | Dog Code-a-long                        |                                                                                                                                         |
 |            | AM       | P1 Prompt Overview                     |                                                                                                                                         |
 |            | PM       | API Search Help                        |                                                                                                                                         |
