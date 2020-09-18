@@ -25,13 +25,13 @@
 |            | PM       | How To Submit HW                       |                                                                                                                                         |
 |            | EE       | Star Wars Terminal Evening Exercise    |                                                                                                                                         |
 |            |          |                                        |                                                                                                                                         |
-| 9/9/2020   | ME       | Data Types Lesson                      | [U1 W1 D3](https://generalassembly.zoom.us/rec/share/o-TSXjeEWw7ArbvTnUuaUgFCDkYz5JvfNOBfUqrCzzIgFM5atyExuFFvlcUX22i-.bQc2k8fz_ToZcuee) |
+| 9/9/2020   | ME       | Data Types Lesson                      | [U1 W1 D3](https://generalassembly.zoom.us/rec/share/zpqBLSaivARmUr8uiS7An-36278cMjpW9z2BMYvBWmR727beWJnaPGblmhDzGgA6.Ku5n911OB99mUJQg) |
 |            | AM       | Arrays Lesson                          |                                                                                                                                         |
 |            | AM       | Arrays Lab                             |                                                                                                                                         |
 |            | EE       | Arrays Evening Exercise                |                                                                                                                                         |
 |            | ECS      | myGA Module- Intro to Computer Science |                                                                                                                                         |
 |            |          |                                        |                                                                                                                                         |
-| 9/10/2020  | ME       | Git & Github Morning Exercise          | [U1 W1 D4](https://generalassembly.zoom.us/rec/share/B7jz_HPZhOwlq2jLy8KaZ4vWoUr7gYpgmtZlspjJWpra2T6zNLonUjG6C5EvKx6C.zw-I-ZUEU52GfiAW) |
+| 9/10/2020  | ME       | Git & Github Morning Exercise          | [U1 W1 D4](https://generalassembly.zoom.us/rec/share/Iyes0Mc_bP4JiQeQjAbn8oFX_Hg1wmt6tv7XyiikwfFx2JGpYttqNpZ1h44QW7qz.4FYVtjDL2rrOtJ39) |
 |            | AM       | Control Flow Lesson                    |                                                                                                                                         |
 |            | AM       | Control Flow Lab                       |                                                                                                                                         |
 |            | PM       | Functions & Scope Lessson              |                                                                                                                                         |
@@ -40,7 +40,7 @@
 |            | ECS      | myGA Module - Big O Notation           |                                                                                                                                         |
 |            | EE       | Loopy Evening Exercise                 |                                                                                                                                         |
 |            |          |                                        |                                                                                                                                         |
-| 9/11/2020  | ME       | Big O Notation Morning Exercise        | [U1 W1 D4](https://generalassembly.zoom.us/rec/share/rA2X4Bs_0yig3Yz7jTcJOW-kGHox2ik0RFCp--6zgMSC3y8tH7i17ob7CIvVbpVV.HWzH3w6QAadhh4HY) |
+| 9/11/2020  | ME       | Big O Notation Morning Exercise        | [U1 W1 D5](https://generalassembly.zoom.us/rec/share/wFQt4m4blw109vn96RdqjpPDsKH466DFP_-5M2RovJ3pvM-fPlN4PHL9_VoZ7STv.HRI7-dgz3TdLH5Hw) |
 |            | AM       | Objects Lesson                         |                                                                                                                                         |
 |            | AM       | Objects Lab: Monkey's                  |                                                                                                                                         |
 |            | PM       | Objects Lab: Hammond Mines             |                                                                                                                                         |
