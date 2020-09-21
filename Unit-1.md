@@ -79,7 +79,7 @@
 |            | EA       | JavaScript Algo- Array Diffs           |                                                                                                                                         |
 |            | ECS      | myGA Module- Recursion                 |                                                                                                                                         |
 |            |          |                                        |                                                                                                                                         |
-| 9/18/2020  | ME       | Responsive Design Morning Exercise     | [U1 W2 D5]() (Processing)                                                                                                               |
+| 9/18/2020  | ME       | Responsive Design Morning Exercise     | [U1 W2 D5](https://generalassembly.zoom.us/rec/share/wRfWDB2GpJCQ2WxzTYSJ1TSAkfOUxLBMrK4TtQKHuz5uPIzo3GsbW9NOFBqyT_VT.Z2jiHPF_CbA31NaH) |
 |            | AM       | Dog Code-a-long                        |                                                                                                                                         |
 |            | AM       | P1 Prompt Overview                     |                                                                                                                                         |
 |            | PM       | API Search Help                        |                                                                                                                                         |
