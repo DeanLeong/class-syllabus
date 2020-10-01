@@ -15,7 +15,7 @@
 | **Unit 2** | **Type** | **Link**                                         | **Zoom Recording**     |
 | :--------- | :------- | :----------------------------------------------- | :--------------------- |
 | Week 4     |          |                                                  | Password: `sei_120703` |
-| 9/28/2020  | ME       | Unit Intro                                       |                        |
+| 9/28/2020  | ME       | Unit Intro                                       | [U2 W1 D1](https://generalassembly.zoom.us/rec/share/fhqR9AqUiWS7rexOZbYuZhO-7tp79E79KdOwyTXjZLHoNXvQAMmFGTvPO-eAZbW4.yDR0rtbOfer1H8uY)|
 |            | AM       | Intro to Node, NPM and Webpack                   |                        |
 |            | PM       | Review: Array Callbacks                          |                        |
 |            | PM       | React Introduction Lesson                        |                        |
@@ -24,13 +24,13 @@
 |            | ECS      | myGA Module- Intro to Sorting                    |                        |
 |            | ECS      | myGA Module- Basic Sorting Algorithms            |                        |
 |            |          |                                                  |                        |
-| 9/29/2020  | OU       | Intro to the Tech Industry Outcomes Workshop     |                        |
+| 9/29/2020  | OU       | Intro to the Tech Industry Outcomes Workshop     | [U2 W1 D2](https://generalassembly.zoom.us/rec/share/Nh8IGYYyHvkUrDkBgOG2fxOQY49s9ULpf6CWaImUgtFv2HyHqUpIUmjVzENCtEWt.QsAt4752n68dLTmW)|
 |            | AM       | React State Lesson                               |                        |
 |            | PM       | React State Lesson                               |                        |
 |            | EE       | React ATM Evening Exercise                       |                        |
 |            | EA       | JavaScript Algo- Insert Index                    |                        |
 |            |          |                                                  |                        |
-| 9/30/2020  | ME       | React DevTools Morning Exercise                  |                        |
+| 9/30/2020  | ME       | React DevTools Morning Exercise                  | [U2 W1 D3](https://generalassembly.zoom.us/rec/share/np1yz8x95T2FXi08RZ7hxnq58A7CSc0HzhX0nBLhKuFcnPGdtovp_o42gj0dPIkF.79qaKSV2aqdvCnik) |
 |            | AM       | React useEffect Lesson                           |                        |
 |            | EE       | Pokedex Evening Exercise                         |                        |
 |            | EA       | JavaScript Algo- Sum All                         |                        |
