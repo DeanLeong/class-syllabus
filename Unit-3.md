@@ -1,3 +1,3 @@
 # Unit 3 Detailed View
 
-More information coming soon.
+Refer to Bruno's full stack unit excel sheet for the detailed calendar.
