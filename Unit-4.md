@@ -59,7 +59,7 @@
 |                       |          |                                               |                    |
 | Thursday / 19 Nov 20  | ME       | CS- Hash Tables Reviews                       |                    |
 |                       | AM       | Active Record Lesson                          |                    |
-|                       | AM       |                                               |                    |
+|                       | AM       | Active Landlord Exercise (?)                  |                    |
 |                       | PM       | Rails Controllers Lesson                      |                    |
 |                       | PM       | Rails Planets Exercise                        |                    |
 |                       | EE       | Rails React CRUD Pets Exercise                |                    |
